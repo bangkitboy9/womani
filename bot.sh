@@ -1,0 +1,1 @@
+python TripM.py -u bangkitboy9@gmail.com -p Adinda@131215 -s 60
